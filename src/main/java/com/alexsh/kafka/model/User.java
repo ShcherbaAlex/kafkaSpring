@@ -1,4 +1,4 @@
-package com.alexsh.kafkaproducer.model;
+package com.alexsh.kafka.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;

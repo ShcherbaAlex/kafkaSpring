@@ -1,4 +1,4 @@
-package com.alexsh.kafkaproducer;
+package com.alexsh.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

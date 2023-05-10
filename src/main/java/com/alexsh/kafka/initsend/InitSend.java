@@ -1,6 +1,6 @@
-package com.alexsh.kafkaproducer.initsend;
+package com.alexsh.kafka.initsend;
 
-import com.alexsh.kafkaproducer.kafkasender.KafkaSender;
+import com.alexsh.kafka.kafkasender.KafkaSender;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

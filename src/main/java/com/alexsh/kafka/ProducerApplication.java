@@ -1,4 +1,4 @@
-package com.alexsh.kafkaproducer;
+package com.alexsh.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
